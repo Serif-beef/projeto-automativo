@@ -1,9 +1,9 @@
 ### Código em Python que utiliza a biblioteca PyAutoGUI para automatizar tarefas usando o os periféricos do computador.
 
 ```
-- import pandas
-- import pyautogui
-- from time import sleep
+import pandas
+import pyautogui
+from time import sleep
 
 # 1
 # abrir o chome
