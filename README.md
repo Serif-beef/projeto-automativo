@@ -1,6 +1,9 @@
-import pandas
-import pyautogui
-from time import sleep
+### Código em Python que utiliza a biblioteca PyAutoGUI para automatizar tarefas usando o os periféricos do computador.
+
+```
+- import pandas
+- import pyautogui
+- from time import sleep
 
 # 1
 # abrir o chome
@@ -88,3 +91,4 @@ for linha in tabela.index:
 # Passo 5: Repetir para todos os produtosSS
 
 # pyautogui -> fazer automações com python
+```
